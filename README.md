@@ -1,7 +1,7 @@
 # Rent-a-car-app-with-console
 
 ## Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın. 
 
     git clone https://github.com/dberrk/Rent-a-car-app-with-console.git
 
